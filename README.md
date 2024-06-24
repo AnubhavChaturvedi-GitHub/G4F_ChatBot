@@ -1,6 +1,6 @@
 ### G4F Chatbot using Flask
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/AnubhavChaturvedi-GitHub/G4F_ChatBot/blob/main/Screenshot%202024-06-25%20010611.png?raw=true)
 
 This repository contains a Flask application that integrates the G4F chatbot using OpenAI's GPT-3.5 model. The chatbot allows users to interact via a web interface.
 
