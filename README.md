@@ -8,30 +8,20 @@ This repository contains a Flask application that integrates the G4F chatbot usi
 
 1. **Installation**
 
-   Ensure you have Python and pip installed. Clone the repository and navigate into the directory:
+   Clone the repository and navigate into the directory:
 
    ```bash
    git clone <repository-url>
    cd <repository-directory>
    ```
 
-   Install the required Python packages:
+   Install the required Python packages from `requirements.txt`:
 
    ```bash
-   pip install Flask openai
+   pip install -r requirements.txt
    ```
 
-2. **Configuration**
-
-   Obtain your OpenAI API key and set it as an environment variable:
-
-   ```bash
-   export OPENAI_API_KEY='your-api-key'
-   ```
-
-   Replace `'your-api-key'` with your actual OpenAI API key.
-
-3. **Running the Application**
+2. **Running the Application**
 
    Start the Flask development server:
 
@@ -52,10 +42,6 @@ This repository contains a Flask application that integrates the G4F chatbot usi
 - `templates/`: Directory for HTML templates.
 - `static/`: Directory for static files (e.g., CSS, JavaScript).
 - `README.md`: This file documenting the project.
-
-### Screenshots
-
-![Screenshot](screenshot.png)
 
 ### Credits
 
